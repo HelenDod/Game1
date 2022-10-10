@@ -130,7 +130,8 @@ Cоздание интерактивного приложения и изуче�
 ![image](https://user-images.githubusercontent.com/90499063/194871497-d9f44e63-8ef4-4970-a182-798101fe1687.png)
 ![image](https://user-images.githubusercontent.com/90499063/194871513-36394fbc-0770-42d1-8653-9afe29acc922.png)
 ![image](https://user-images.githubusercontent.com/90499063/194871530-5e0155d5-03be-4eb4-ab39-f3707191e072.png)
-![image](https://user-images.githubusercontent.com/90499063/194871549-3242e427-5e3b-4c53-afdb-bc6ff42156d5.png)
+![image](https://user-images.githubusercontent.com/90499063/194871760-ca4399b9-42fc-43f6-aef2-0e1da6a16cef.png)
+
 
 
 
